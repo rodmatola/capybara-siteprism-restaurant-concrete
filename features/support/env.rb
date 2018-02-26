@@ -3,7 +3,7 @@ require 'capybara/cucumber'
 require 'selenium-webdriver'
 require 'site_prism'
 require 'capybara/rspec'
-require 'test/unit'
+
 
 Capybara.register_driver :selenium do |app|
 ## linha abaixo para rodar normal
