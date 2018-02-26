@@ -10,7 +10,7 @@ Versão usando o Python Robot Framework no link [https://github.com/rodmatola/ro
 	Para que possa visualizar as informações sobre o estabelecimento
 	E o cardápio online
 
-## Critérios de aceite:
+## Critérios de aceite: [![Circle CI](https://circleci.com/gh/rodmatola/capybara-siteprism-restaurant-concrete.svg?style=shield)](https://circleci.com/gh/rodmatola/capybara-siteprism-restaurant-concrete)
 
 Campos obrigatórios:
 - Campo para busca do restaurante
