@@ -13,4 +13,4 @@ dependencies:
 
 test:
   override:
-    - cucumber -p html_report
+    - cucumber
