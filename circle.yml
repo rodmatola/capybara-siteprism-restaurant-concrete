@@ -1,6 +1,6 @@
 machine:
   ruby:
-    version: 2.4.1p111
+    version: 2.4.1
 dependencies:
   pre:
     - sudo apt-get install libxss1 libappindicator1 libindicator7 
